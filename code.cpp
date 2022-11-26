@@ -1,3 +1,10 @@
+// Name - Manish Kumar Paswan
+// College - IIIT Ranchi
+// Year of Passing - 2023
+// Phone no - 8789359441
+// Email - manish.btech.cs19@iiitranchi.ac.in
+
+
 #include<bits/stdc++.h>
 using namespace std;
 
